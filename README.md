@@ -1,1 +1,1 @@
-# analyzing_the_impact_of_functional_approximation_on_the_resilience_of_deep_neural_networks
+# Analyzing The Impact Of Functional Approximation On The Resilience Of Deep Neural Networks
